@@ -1,4 +1,4 @@
-cpsc100
+CPSC 100 - Computer Programming I
 =======
 
-CPSC 100
+This is a repository to store all my files from CPSC 100 Labs done at the University of Northern British Columbia.
