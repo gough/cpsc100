@@ -14,5 +14,9 @@ hs_err_pid*
 # Mac files
 .DS_Store
 
-# Eclipse(?) files
+# Eclipse files/folders
 .metadata
+.classpath
+.project
+.settings
+.settings/
