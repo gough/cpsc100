@@ -12,3 +12,10 @@ public class Student {
 		Student.name = s;
 	}
 }
+
+/*
+ * Output:
+ * // Student.setName("Lucy");
+ * // Student.getName();
+ * Lucy
+ */
