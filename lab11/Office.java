@@ -30,6 +30,7 @@ public class Office {
 	}
 	
 	public void extendRentTerm(int month) {
+		// adds the supplied months to the rent term
 		this.setRentTerm(this.getRentTerm() + month);
 	}
 }

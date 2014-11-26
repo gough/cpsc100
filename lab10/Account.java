@@ -21,7 +21,11 @@ public class Account {
 	}
 	
 	public void withdraw(double cash) {
+		// checks if the account balance is greater
+		// then zero after cash is withdrawn
 		if (this.accountBalance - cash < 0) {
+			// balance will be less than 0 after
+			// cash is withdrawn
 			System.out.println(
 					"You do not have enough money to"
 					+ "withdraw that amount.");
