@@ -1,3 +1,2 @@
 # CPSC 100 - Computer Programming I
-
-This repository holds all my completed labs for the September 2014 semester of Computer Programming I at UNBC.
+This repository holds all my labs for the fall 2014 semester of CPSC 100 at UNBC
